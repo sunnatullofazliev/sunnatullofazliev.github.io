@@ -30,9 +30,14 @@
       "end_date": "Present",
       "summary": "",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "Cell culture",
+        "Confocal microscopy",
+        "Nanoparticle tracking analysis",
+	"In vivo small animal models",
+	"Bioconjugation",
+	"Western blot",
+	"SDS-PAGE",
+	"Flow cytometry"
       ]
     },
     {
@@ -68,33 +73,25 @@
 
 
   ],
-  "projects": [
+  "Selected publications": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "Membrane localization of actin filaments stabilizes giant unilamellar vesicles against external deforming forces",
+      "summary": "",
+      "url": "https://doi.org/10.1016/j.ejcb.2024.151428",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "",
+        "",
+        ""
       ],
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
+          "img_path": "portfolio_media/project1",
+          "caption": ""
         }
       ]
     },
     {
-      "title": "My Second Project",
+      "title": "An Engineered β-Hairpin Peptide Forming Thermostable Complexes with ZnII, NiII, and CuII through a His3 Site",
       "summary": "Short summary about my second project",
       "url": "https://sample.com",
       "highlights": [
