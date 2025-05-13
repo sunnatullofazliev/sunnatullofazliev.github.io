@@ -1,39 +1,34 @@
 {
-  "name": "Your Name",
+  "name": "Sunnatullo Fazliev",
   "label": "Optional Label",
-  "image_path": "img/default-image.png",
+  "image_path": "portfolio_media/profile.png",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "sunnatullofazliev@gmail.com",
+    "phone": "",
+    "location": "Stuttgart, DE"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
-  "base_url": "127.0.0.1:5500",
+  "summary": "Interdisciplinary scientist working at the intersection of chemistry, biology and physics to design and develop life-inspired molecular systems for fundamental, pharmaceutical, biomedical applications and beyond.",
+  "base_url": "",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/in/sunnatullo-fazliev",
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
+      "label": "Github",
+      "url": "https://github.com/sunnatullofazliev",
       "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
+      "company": "Max Planck Institute for Medical Research",
+      "position": "Doctoral Researcher",
+      "url": "https://mr.mpg.de",
+      "start_date": "01/02/2023",
       "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "summary": "",
       "highlights": [
         "First Duty of Current Job",
         "Second Duty of Current Job",
@@ -41,18 +36,37 @@
       ]
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
+      "company": "Max Planck Institute for Medical Research",
+      "position": "Master thesis student",
+      "url": "https://mr.mpg.de",
+      "start_date": "01/05/2022",
+      "end_date": "31/01/2023",
+      "summary": "Engineered a minimal actin cortex system for synthetic cells.",
       "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Confocal microscopy",
+        "Micropatterning",
+        "STED microscopy",
+        "Image analysis"
+      ]
+    },
+     {
+      "company": "Center for Advanced Studies and Istitute of Inorganic Chemistry",
+      "position": "Graduate research intern",
+      "url": "https://www.imseam.uni-heidelberg.de",
+      "start_date": "01/11/2021",
+      "end_date": "30/04/2022",
+      "summary": "Rationally designed and synthesized metal binding miniproteins.",
+      "highlights": [
+        "Solid phase peptide synthesis (SPPS)",
+        "Preparative and analytical high-performance liquid chromatography (HPLC)",
+        "Fluorescence and UV-Vis spectroscopy",
+        "Synchrotron X-ray absorption and X-ray fluorescence spectroscopy",
+        "Electron paramagnetic resonanse (EPR) spectrocopy",
+        "Cyclic voltammetry"
       ]
     }
+
+
   ],
   "projects": [
     {
