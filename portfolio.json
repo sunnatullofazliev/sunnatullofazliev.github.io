@@ -1,6 +1,6 @@
 {
   "name": "Sunnatullo Fazliev",
-  "label": "Optional Label",
+  "label": "",
   "image_path": "portfolio_media/profile.jpg",
   "contact": {
     "email": "sunnatullofazliev@gmail.com",
@@ -73,7 +73,7 @@
 
 
   ],
-  "Selected publications": [
+  "publications": [
     {
       "title": "Membrane localization of actin filaments stabilizes giant unilamellar vesicles against external deforming forces",
       "summary": "",
@@ -85,32 +85,29 @@
       ],
       "images": [
         {
-          "img_path": "portfolio_media/project1",
+          "img_path": "",
           "caption": ""
         }
       ]
     },
     {
       "title": "An Engineered β-Hairpin Peptide Forming Thermostable Complexes with ZnII, NiII, and CuII through a His3 Site",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
+      "summary": "",
+      "url": "https://doi.org/10.1002/cbic.202200588",
       "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
-      ],
+       ],
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
+          "img_path": "",
+          "caption": ""
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
+          "img_path": "",
+          "caption": ""
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
+          "img_path": "",
+          "caption": ""
         }
       ]
     }
