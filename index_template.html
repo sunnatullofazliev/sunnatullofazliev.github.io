@@ -135,10 +135,10 @@
             </section>
           {% endif %}
 
-          {% if projects %}
+          {% if publications %}
             <section>
-              <h2 class="section-heading">Projects</h2>
-              {% for project in projects %}
+              <h2 class="section-heading">Selected Publications</h2>
+              {% for project in publications %}
                 <section>
                   <h3>
                     {% if project.url %}
@@ -147,7 +147,7 @@
                       {{ project.title }}
                     {% endif %}
                   </h3>
-                  {% if project.summary %}<p>{{ project.summary }}</p>{% endif %}
+                  {% if project.authors %}<p>{{ project.authors }}</p>{% endif %}
                   {% if project.highlights %}
                     <ul>
                       {% for highlight in project.highlights %}<li>{{ highlight }}</li>{% endfor %}
