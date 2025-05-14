@@ -125,27 +125,27 @@
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "Heidelberg University",
+      "location": "Heidelberg, DE",
+      "url": "",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "M.Sc., Molecular systems chemistry and engineering",
+        ""
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+      "honors": ["Matter to Life Scholarship Recipient"],
+      "gpa_cumulative": "1.2 (with distinction)",
+      "gpa_major": "",
+      "graduation_date": "23/12/2022"
     },
     {
-      "institution": "Institution Two",
+      "institution": "Tashkent Pharmaceutical Intitute",
       "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "url": "",
+      "degrees": ["B.Sc. in Pharmaceutical sciences"],
+      "honors": ["Presidential Scholarship Recipient"],
+      "gpa_cumulative": "91.2% (with distinction)",
+      "gpa_major": "",
+      "graduation_date": "03/07/2019"
     }
   ],
   "skills": [
@@ -193,23 +193,35 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Full professional Working Proficiency"
     },
     {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
+      "language": "Russian",
+      "fluency": "Full professional Working Proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "Limited Working Proficiency"
+    },
+    {
+      "language": "Uzbek",
+      "fluency": "Native"
+    },
+    {
+      "language": "Turkish",
+      "fluency": "Elementary Proficiency"
     }
   ],
   "references": [
     {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+      "name": "Prof. Dr. Franziska Thomas",
+      "relation": "Previous supervisor and mentor",
+      "reference": "ffranziska.thomas@oci.uni-heidelberg.de"
     },
     {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+      "name": "Prof. Dr. Joachim Spatz",
+      "relation": "Doctoral supevisor",
+      "reference": "spatz@mr.mpg.de"
     }
   ]
 }
