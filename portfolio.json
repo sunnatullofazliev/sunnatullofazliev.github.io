@@ -29,49 +29,29 @@
       "start_date": "01/02/2023",
       "end_date": "Present",
       "summary": "",
-      "highlights": [
-        "Cell culture",
-        "Confocal microscopy",
-        "Nanoparticle tracking analysis",
-	"In vivo small animal models",
-	"Bioconjugation",
-	"Western blot",
-	"SDS-PAGE",
-	"Flow cytometry"
-      ]
+      "highlights":
+        "Cell culture, Confocal microscopy, Nanoparticle tracking analysis, In vivo small animal models, Bioconjugation, Western blot, SDS-PAGE, Flow cytometry, Microfluidics (SPPS), Preparative and analytical high-performance liquid chromatography (HPLC), Fluorescence and UV-Vis spectroscopy, Synchrotron X-ray absorption and X-ray fluorescence spectroscopy, Electron paramagnetic resonanse (EPR) spectrocopy, Cyclic voltammetry"
     },
     {
       "company": "Max Planck Institute for Medical Research",
-      "position": "Master thesis student",
+      "position": "Master Thesis Student",
       "url": "https://mr.mpg.de",
       "start_date": "01/05/2022",
       "end_date": "31/01/2023",
       "summary": "Engineered a minimal actin cortex system for synthetic cells.",
-      "highlights": [
-        "Confocal microscopy",
-        "Micropatterning",
-        "STED microscopy",
-        "Image analysis"
-      ]
+      "highlights":
+        "Confocal microscopy, STED microscopy, Micropatterning, Image analysis, Programming (python)"
     },
      {
       "company": "Center for Advanced Studies and Istitute of Inorganic Chemistry",
-      "position": "Graduate research intern",
+      "position": "Graduate Research Intern",
       "url": "https://www.imseam.uni-heidelberg.de",
       "start_date": "01/11/2021",
       "end_date": "30/04/2022",
       "summary": "Rationally designed and synthesized metal binding miniproteins.",
-      "highlights": [
-        "Solid phase peptide synthesis (SPPS)",
-        "Preparative and analytical high-performance liquid chromatography (HPLC)",
-        "Fluorescence and UV-Vis spectroscopy",
-        "Synchrotron X-ray absorption and X-ray fluorescence spectroscopy",
-        "Electron paramagnetic resonanse (EPR) spectrocopy",
-        "Cyclic voltammetry"
-      ]
+      "highlights": 
+        "Solid phase peptide synthesis (SPPS), Preparative and analytical high-performance liquid chromatography (HPLC), Fluorescence and UV-Vis spectroscopy, Synchrotron X-ray absorption and X-ray fluorescence spectroscopy, Electron paramagnetic resonanse (EPR) spectrocopy, Cyclic voltammetry"
     }
-
-
   ],
   "publications": [
     {
@@ -162,31 +142,45 @@
   ],
   "interests": [
     {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
+      "name": "Football",
+      "summary": "Playing football at all career stages made me a lot of new friends",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
+          "img_path": "portfolio_media/football1",
+          "caption": "We won Max Planck Minerva cup 2023"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
+          "img_path": "",
+          "caption": ""
         }
       ]
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
+      "name": "Running",
+      "summary": "Running helps me being physically and mentally fit while exploring the nature",
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
+          "img_path": "portfolio_media/running1",
+          "caption": "My first half-marathon"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
+          "img_path": "portfolio_media/running2",
+          "caption": "My first marathon"
         }
+        ]
+        },
+    {
+          "name": "Chess",
+          "summary": "My favourite hobby for long evenings",
+          "images": [
+            {
+              "img_path": "",
+              "caption": ""
+            },
+            {
+              "img_path": "",
+              "caption": ""
+    }
       ]
     }
   ],
@@ -220,7 +214,7 @@
     },
     {
       "name": "Prof. Dr. Joachim Spatz (spatz@mr.mpg.de)",
-      "relation": "Doctoral supevisor",
+      "relation": "Doctoral supervisor",
       "reference": ""
     }
   ]
