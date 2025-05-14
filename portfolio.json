@@ -141,7 +141,7 @@
       "institution": "Tashkent Pharmaceutical Intitute",
       "location": "Institution Two Location",
       "url": "",
-      "degrees": ["B.Sc. in Pharmaceutical sciences"],
+      "degrees": ["B.Sc., Pharmaceutical sciences"],
       "honors": ["Presidential Scholarship Recipient"],
       "gpa_cumulative": "91.2% (with distinction)",
       "gpa_major": "",
@@ -204,24 +204,24 @@
       "fluency": "Limited Working Proficiency"
     },
     {
-      "language": "Uzbek",
-      "fluency": "Native"
-    },
-    {
       "language": "Turkish",
       "fluency": "Elementary Proficiency"
-    }
+    },
+     {
+       "language": "Uzbek",
+       "fluency": "Native"
+     }
   ],
   "references": [
     {
-      "name": "Prof. Dr. Franziska Thomas",
+      "name": "Prof. Dr. Franziska Thomas (franziska.thomas@oci.uni-heidelberg.de)",
       "relation": "Previous supervisor and mentor",
-      "reference": "ffranziska.thomas@oci.uni-heidelberg.de"
+      "reference": ""
     },
     {
-      "name": "Prof. Dr. Joachim Spatz",
+      "name": "Prof. Dr. Joachim Spatz (spatz@mr.mpg.de)",
       "relation": "Doctoral supevisor",
-      "reference": "spatz@mr.mpg.de"
+      "reference": ""
     }
   ]
 }
