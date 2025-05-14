@@ -30,8 +30,8 @@
       "end_date": "Present",
       "summary": "",
       "highlights":[
-        "Cell culture", "Confocal microscopy", "Nanoparticle tracking analysis", "In vivo small animal models", "Bioconjugation", 
-        "Western blot", "SDS-PAGE", "Flow cytometry", "Microfluidics"
+        "Cell culture", "Confocal microscopy", "In vivo small animal models", 
+        "Western blot", "SDS-PAGE and Agarose GE", "Flow cytometry"
     ]
     },
     {
@@ -42,7 +42,7 @@
       "end_date": "31/01/2023",
       "summary": "Engineered a minimal actin cortex system for synthetic cells.",
       "highlights":[
-        "Confocal microscopy, STED microscopy, Micropatterning, Image analysis, Programming (python)"
+        "Confocal and STED microscopy", "Micropatterning", "Image analysis", "Programming (python)"
         ]
     },
      {
@@ -53,8 +53,8 @@
       "end_date": "30/04/2022",
       "summary": "Rationally designed and synthesized metal binding miniproteins.",
       "highlights":[
-        "Solid phase peptide synthesis (SPPS)", "Preparative and analytical high-performance liquid chromatography (HPLC)", 
-        "Fluorescence and UV-Vis spectroscopy", "Synchrotron X-ray absorption and X-ray fluorescence spectroscopy", 
+        "Solid phase peptide synthesis (SPPS)", "HPLC", 
+        "Fluorimetry", "Synchrotron X-ray absorption and X-ray fluorescence spectroscopy", 
         "Electron paramagnetic resonanse (EPR) spectrocopy", "Cyclic voltammetry"
     ]
     }
