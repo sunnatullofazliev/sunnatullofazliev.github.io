@@ -29,8 +29,10 @@
       "start_date": "01/02/2023",
       "end_date": "Present",
       "summary": "",
-      "highlights":
-        "Cell culture, Confocal microscopy, Nanoparticle tracking analysis, In vivo small animal models, Bioconjugation, Western blot, SDS-PAGE, Flow cytometry, Microfluidics (SPPS), Preparative and analytical high-performance liquid chromatography (HPLC), Fluorescence and UV-Vis spectroscopy, Synchrotron X-ray absorption and X-ray fluorescence spectroscopy, Electron paramagnetic resonanse (EPR) spectrocopy, Cyclic voltammetry"
+      "highlights":[
+        "Cell culture", "Confocal microscopy", "Nanoparticle tracking analysis", "In vivo small animal models", "Bioconjugation", 
+        "Western blot", "SDS-PAGE", "Flow cytometry", "Microfluidics"
+    ]
     },
     {
       "company": "Max Planck Institute for Medical Research",
@@ -39,8 +41,9 @@
       "start_date": "01/05/2022",
       "end_date": "31/01/2023",
       "summary": "Engineered a minimal actin cortex system for synthetic cells.",
-      "highlights":
+      "highlights":[
         "Confocal microscopy, STED microscopy, Micropatterning, Image analysis, Programming (python)"
+        ]
     },
      {
       "company": "Center for Advanced Studies and Istitute of Inorganic Chemistry",
@@ -49,8 +52,11 @@
       "start_date": "01/11/2021",
       "end_date": "30/04/2022",
       "summary": "Rationally designed and synthesized metal binding miniproteins.",
-      "highlights": 
-        "Solid phase peptide synthesis (SPPS), Preparative and analytical high-performance liquid chromatography (HPLC), Fluorescence and UV-Vis spectroscopy, Synchrotron X-ray absorption and X-ray fluorescence spectroscopy, Electron paramagnetic resonanse (EPR) spectrocopy, Cyclic voltammetry"
+      "highlights":[
+        "Solid phase peptide synthesis (SPPS)", "Preparative and analytical high-performance liquid chromatography (HPLC)", 
+        "Fluorescence and UV-Vis spectroscopy", "Synchrotron X-ray absorption and X-ray fluorescence spectroscopy", 
+        "Electron paramagnetic resonanse (EPR) spectrocopy", "Cyclic voltammetry"
+    ]
     }
   ],
   "publications": [
