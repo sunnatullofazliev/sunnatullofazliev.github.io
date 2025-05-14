@@ -147,7 +147,7 @@
                       {{ project.title }}
                     {% endif %}
                   </h3>
-                  {% if project.summary %}<p>{{ project.summary }}</p>{% endif %}
+                  {% if project.summary %}<p>{{ project.authors }}</p>{% endif %}
                   {% if project.highlights %}
                     <ul>
                       {% for highlight in project.highlights %}<li>{{ highlight }}</li>{% endfor %}
@@ -186,7 +186,7 @@
                   {% if vol.start_date and vol.end_date %}
                     <p class="section-label">{{ vol.start_date }} - {{ vol.end_date }}</p>
                   {% endif %}
-                  {% if vol.summary %}<p>{{ vol.summary }}</p>{% endif %}
+                  {% if vol.authors %}<p>{{ vol.authors }}</p>{% endif %}
                   {% if vol.highlights %}
                     <ul>
                       {% for highlight in vol.highlights %}<li>{{ highlight }}</li>{% endfor %}
