@@ -125,7 +125,11 @@
                     <p class="section-label">{{ job.start_date }} - {{ job.end_date }}</p>
                   {% endif %}
                   {% if job.summary %}<p>{{ job.summary }}</p>{% endif %}
-                  {% if job.highlights %}<p>{{ job.highlights }}</p>{% endif %}
+                  {% if job.highlights %}
+                    <ul>
+                      {% for highlight in job.highlights %}<li>{{ highlight }}</li>{% endfor %}
+                    </ul>
+                  {% endif %}
                 </section>
               {% endfor %}
             </section>
